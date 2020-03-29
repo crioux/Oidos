@@ -17,7 +17,7 @@ cd ..
 
 # Compile converter to exe
 cd convert
-/c/Python27/python ./py2exe_setup.py
+python ./py2exe_setup.py
 cd ..
 
 # copy VSTs
